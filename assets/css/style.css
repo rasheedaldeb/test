@@ -10,3 +10,7 @@
     grid-template-rows: repeat(3 , auto);
     grid-template-areas: "a a a b ";
 }
+h1 {
+    font-size: 60px;
+    color: black;
+}
